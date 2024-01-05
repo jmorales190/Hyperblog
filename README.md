@@ -8,5 +8,5 @@ Un blog increbile para el [curso de git y github](http://https://platzi.com/new-
 * El flujo de trabajo en Github
 * Buenas prácticas
 * Trucos
-
+* Creado por el Platziteam
 Como recordatorio **este Readme es un chiste** diseñado para el ejemplo
