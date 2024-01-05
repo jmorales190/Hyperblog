@@ -10,4 +10,5 @@ Un blog increbile para el [curso de git y github](http://https://platzi.com/new-
 * Trucos
 * Creado por el Platziteam
 * incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 Como recordatorio **este Readme es un chiste** diseñado para el ejemplo
